@@ -7,7 +7,7 @@
 6. Installed the “bootstrap-vue” npm and integrated the design of Collin (built with Bootstrap Vue)
 
 # Instructions for Lloyd / Lindsey:
-1. cd into folder where the files are unzipped
+1. install the dependencies
 2. make sure that “webpack-dev-server” is installed, else type: ‘npm install webpack-dev-server -g’
 3. type ‘npm run dev’
 4. the application can be found on http://localhost:8080
